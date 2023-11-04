@@ -5,3 +5,7 @@ module.exports.about = () => {
 module.exports.version = () => {
   return require('./version').version;
 };
+
+module.exports.creationDate = () => {
+  return '4th.November.2023';
+};
