@@ -1,6 +1,6 @@
 {
   "name": "node_app_b",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "this is node app b",
   "main": "index.js",
   "scripts": {
