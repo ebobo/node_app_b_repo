@@ -9,3 +9,7 @@ module.exports.version = () => {
 module.exports.creationDate = () => {
   return '4th.November.2023';
 };
+
+module.exports.License = () => {
+  return 'open source';
+};
